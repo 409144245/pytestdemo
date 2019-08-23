@@ -1,0 +1,7 @@
+[
+  "api/test_autouse.py::TestSample::()::test_answer",
+  "api/test_autouse.py::TestSample::()::test_answer2",
+  "api/test_autouse.py::TestSampleTwo::()::test_two_answer",
+  "api/test_autouse.py::TestSampleTwo::()::test_two_answer2",
+  "api/test_autouse.py::TestSampleTwo::()::test_itme"
+]
